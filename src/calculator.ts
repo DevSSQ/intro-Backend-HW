@@ -1,6 +1,7 @@
 import { question } from 'readline-sync';
 
-//Question1
+//exercise1
+
 type Operator = '+' | '-' | '*' | '/';
 
 function main(): void {
